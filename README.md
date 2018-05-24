@@ -1,0 +1,2 @@
+# CUDA-error-in-func-out-of-memory
+Im minning eth with 2x 1060 3gb and 1x 1050ti 4gb running smoth no prob at all. after connecting a 4th gpu GTX 970 4Gb i get these error messages: CUDA error in func ethash_cuda_miner::init at line 237 : out of memory and Cuda error in func set_header at line 147 : out of memory. I have set my virtual memory to 20GB. tried serveral different mining programms. always same error since the 4th gpu any suggestions on how to solve this error?
